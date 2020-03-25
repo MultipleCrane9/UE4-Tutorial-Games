@@ -8,5 +8,4 @@ Additionally, you will need to download Visual Studio Community 2019, Visual Stu
 - The Epic Games Downloader (This is how you get UE4) - [https://www.unrealengine.com/en-US/]
 
 - Here is my Twitch where I will be streaming the courses as I go through them - [https://www.twitch.tv/multiplecrane9]
-- And my Discord where you can chat with everyone and hang out, as well as participate in our non-game development streams 
-- [https://discord.gg/GPXsvsy]
+- And my Discord where you can chat with everyone and hang out, as well as participate in our non-game development streams - [https://discord.gg/GPXsvsy]

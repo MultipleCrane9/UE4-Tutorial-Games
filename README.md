@@ -3,7 +3,7 @@ This repository is for my twitch followers to be able to follow along with me in
 And thus they will need a place to be able to download any files that are given to me so that they can do just that.
 Additionally, you will need to download Visual Studio Community 2019, Visual Studio Code, and the Unreal Engine 4 (Version 4.22.3) as these are the same versions that I will be using during the lessons.
 
-- Visual Studio Community 2019 - [https://visualstudio.microsoft.com/downloads/]
+- Visual Studio Community 2019 - [https://visualstudio.microsoft.com/downloads/] Make sure to download the C++ Game extension while installing thiis compiler.
 - Visual Studio Code - [https://code.visualstudio.com/]
 - The Epic Games Downloader (This is how you get UE4) - [https://www.unrealengine.com/en-US/]
 
